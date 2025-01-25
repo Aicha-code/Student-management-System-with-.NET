@@ -1,5 +1,5 @@
 # Student-management-System-with-.NET
-this is a Group assignment, in Application Development with .NET-->>>[Application Development with .Net_Ass#3.pdf](https://github.com/user-attachments/files/18535474/Application.Development.with.Net_Ass.3.pdf)
+this the Web version of a Group assignment in Application Development with .NET-->>>[Application Development with .Net_Ass#3.pdf](https://github.com/user-attachments/files/18535474/Application.Development.with.Net_Ass.3.pdf)
 
 Bellow are team members names and positions:
 //Aichetou Abari Ilior	:
